@@ -14,6 +14,6 @@ permalink: publications
 
 
 ### Magazine articles
-1. Giovanetti-Singh G\*, Kent R\*, **Manivannan SN**\* [Hidden Figures.](https://issuu.com/bluesci/docs/issue52_issuu_copy) _BlueSci 52_ (2021).
+1. Giovanetti-Singh G\*, Kent R\*, **Manivannan SN**\*. [Hidden Figures.](https://issuu.com/bluesci/docs/issue52_issuu_copy) _BlueSci 52_ (2021).
 
 (\* contributed equally)
