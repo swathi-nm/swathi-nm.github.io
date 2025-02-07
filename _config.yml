@@ -24,7 +24,7 @@ description: "PhD candidate, Yale University"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: swathi-nm
-resume_google_scholar_url: https://scholar.google.com/citations?user=ek36X2IAAAAJ&hl
+googlescholar: https://scholar.google.com/citations?user=ek36X2IAAAAJ&hl
 
 
 # Build settings
