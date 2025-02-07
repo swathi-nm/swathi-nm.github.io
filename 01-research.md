@@ -4,7 +4,7 @@ title: Research
 permalink: research
 ---
 
-<img src="https://github.com/swathi-nm/swathi-nm.github.io/blob/main/diss_overview.png" align = "center"/>
+<img src="https://github.com/swathi-nm/swathi-nm.github.io/blob/main/diss_overview.jpg" align = "center"/>
 
 My research is motivated by three overarching questions:
 
@@ -18,7 +18,7 @@ At present, I focus on how mechanisms shaping the genotype-phenotype map of a gi
 
 ## **How mechanisms of evolvability have been studied in (microbial) systems**
 
-<img src="https://github.com/swathi-nm/swathi-nm.github.io/blob/main/epistasis_figure.png" width="25%" align="left" style="margin: 0px 10px 10px 0px;" />
+<img src="https://github.com/swathi-nm/swathi-nm.github.io/blob/main/epistasis_figure.jpg" width="25%" align="left" style="margin: 0px 10px 10px 0px;" />
 
 Part of the work in offering clarity to a field of study such as evolvability involves synthesising and understanding what has already been done in the field thus far. I conducted a [systematic review](https://osf.io/preprints/osf/w56bq_v1) of epistasis (where the combined phenotypic effect of mutations deviates from the constituent mutations' individual effects combined) in viruses, where we discuss the need for genomic epidemiologists to actively incorporate epistasis in their work, and the implications of epistasis and viral evolvability. 
 
@@ -27,7 +27,7 @@ Currently, I am working on developing and testing a framework for measuring evol
 
 ## **Proteostasis as a mechanism of evolvability in microbes**
 
-<img src="https://github.com/swathi-nm/swathi-nm.github.io/blob/main/pqc_proteins.png" width="25%" align="left" style="margin: 0px 10px 10px 0px;" />
+<img src="https://github.com/swathi-nm/swathi-nm.github.io/blob/main/pqc_proteins.jpg" width="25%" align="left" style="margin: 0px 10px 10px 0px;" />
 
 Proteostasis, or protein homeostasis, is a dynamic process in all living organisms that ensures that proteins are folded correctly, and that damaged proteins are degraded appropriately under various environmental conditions. Typically, a wide range of proteins - chaperones (which fold proteins), proteases (which break down damaged proteins) and protein translational machinery (involved in translating RNA into proteins) - are implicated in proteostasis.
 
@@ -37,6 +37,6 @@ This is currently ongoing work as part of my dissertation. Look out for more upd
 
 ## **E3ID (Epidemiology, ecology, and evolution of infectious diseases)**
 
-<img src="https://github.com/swathi-nm/swathi-nm.github.io/blob/main/ess_asymptomaticity.png" width="25%" align="left" style="margin: 0px 10px 10px 0px;" />
+<img src="https://github.com/swathi-nm/swathi-nm.github.io/blob/main/ess_asymptomaticity.jpg" width="25%" align="left" style="margin: 0px 10px 10px 0px;" />
 
 While not strictly part of the "evolvability" umbrella of my research interests, I am also generally interested in understanding and predicting the epidemiological, ecological, and/or evolutionary dynamics of infectious diseases. In my undergraduate studies, I used mathematical modelling to [study](https://www.siam.org/media/j0iffxqy/s151755rr.pdf) how asymptomatic, infectious hosts that recovered without developing symptoms could shape the evolutionary dynamics of a pathogen. I was also involved in a [study](https://arxiv.org/pdf/2409.09096), where we have proposed new metrics to quantify the impact of social disparities on the epidemiology of disease outbreaks. 
