@@ -18,7 +18,7 @@ At present, I focus on how mechanisms shaping the genotype-phenotype map of a gi
 
 ## **How mechanisms of evolvability have been studied in (microbial) systems**
 
-<img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="25%" align="left"/>
+<img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="40%" align="left"/>
 
 Part of the work in offering clarity to a field of study such as evolvability involves synthesising and understanding what has already been done in the field thus far. I conducted a [systematic review](https://osf.io/preprints/osf/w56bq_v1) of epistasis (where the combined phenotypic effect of mutations deviates from the constituent mutations' individual effects combined) in viruses, where we discuss the need for genomic epidemiologists to actively incorporate epistasis in their work, and the implications of epistasis and viral evolvability. 
 
@@ -27,7 +27,7 @@ Currently, I am working on developing and testing a framework for measuring evol
 
 ## **Proteostasis as a mechanism of evolvability in microbes**
 
-<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="25%" align="left"/>
+<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="40%" align="left"/>
 
 Proteostasis, or protein homeostasis, is a dynamic process in all living organisms that ensures that proteins are folded correctly, and that damaged proteins are degraded appropriately under various environmental conditions. Typically, a wide range of proteins - chaperones (which fold proteins), proteases (which break down damaged proteins) and protein translational machinery (involved in translating RNA into proteins) - are implicated in proteostasis.
 
@@ -37,6 +37,6 @@ This is currently ongoing work as part of my dissertation. Look out for more upd
 
 ## **E3ID (Epidemiology, ecology, and evolution of infectious diseases)**
 
-<img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="25%" align="left"/>
+<img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="40%" align="left"/>
 
 While not strictly part of the "evolvability" umbrella of my research interests, I am also generally interested in understanding and predicting the epidemiological, ecological, and/or evolutionary dynamics of infectious diseases. In my undergraduate studies, I used mathematical modelling to [study](https://www.siam.org/media/j0iffxqy/s151755rr.pdf) how asymptomatic, infectious hosts that recovered without developing symptoms could shape the evolutionary dynamics of a pathogen. I was also involved in a [study](https://arxiv.org/pdf/2409.09096), where we have proposed new metrics to quantify the impact of social disparities on the epidemiology of disease outbreaks. 
