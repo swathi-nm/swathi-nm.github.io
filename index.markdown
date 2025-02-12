@@ -8,7 +8,7 @@ permalink: /
 
 Hello! I am a PhD candidate at the Department of Ecology and Evolutionary Biology at Yale University, where I am advised by [Brandon Ogbunu](https://ogbunulab.yale.edu/). I am interested in understanding the mechanisms and factors that influence the capacity of (pathogenic) microbes to adaptively evolve (i.e., their _**evolvability**_), and what this means for the spread and control of infectious disease outbreaks. I employ a mixture of theoretical and experimental approaches to address this topic, as part of my broader motivation to bridge the gap between theoretical and experimental work in evolutionary biology.
 
-I am from Singapore and earned my bachelor's degree in Natural Sciences (Genetics) from the University of Cambridge, UK, where I did undergraduate research with [John Welch](https://www.welch.gen.cam.ac.uk/GroupPage/Home.html) and [Simon Levin](https://slevin.princeton.edu/). 
+I am from Singapore and earned my bachelor's degree in Natural Sciences (Genetics) from the University of Cambridge, UK, where I did undergraduate research with [John Welch](https://www.welch.gen.cam.ac.uk/GroupPage/Home.html) and [Simon Levin](https://slevin.princeton.edu/). In my free time, I enjoy reading, playing the veena, embroidering (poorly), and trying new recipes in the kitchen.
 
 ---
 
