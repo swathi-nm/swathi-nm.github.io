@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-<img src="https://swathi-nm.github.io/headshot.JPG" width="35%" align="right" style="margin: 0px 10px 10px 0px;" />
+<img src="https://swathi-nm.github.io/headshot.jpg" width="35%" align="right" style="margin: 0px 10px 10px 0px;" />
 
 Hello! I am a PhD candidate at the [Department of Ecology and Evolutionary Biology](https://eeb.yale.edu/) at Yale University, where I am advised by [Brandon Ogbunu](https://ogbunulab.yale.edu/). I am interested in understanding the mechanisms and factors that influence the capacity of (pathogenic) microbes to adaptively evolve (i.e., their _**evolvability**_), and what this means for the spread and control of infectious disease outbreaks.
 
