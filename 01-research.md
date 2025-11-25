@@ -20,7 +20,7 @@ At present, I focus on how mechanisms shaping the genotype-phenotype map of a gi
 
 <img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="40%" align="left"/>
 
-Part of the work in offering clarity to a field of study such as evolvability involves synthesising and understanding what has already been done in the field thus far. I conducted a [systematic review](https://osf.io/preprints/osf/w56bq_v1) of epistasis (where the combined phenotypic effect of mutations deviates from the constituent mutations' individual effects combined) in viruses, where we discuss the need for genomic epidemiologists to actively incorporate epistasis in their work, and the implications of epistasis and viral evolvability. 
+Part of the work in offering clarity to a field of study such as evolvability involves synthesising and understanding what has already been done in the field thus far. I conducted a [systematic review](https://doi.org/10.1093/ve/veaf091) of epistasis (where the combined phenotypic effect of mutations deviates from the constituent mutations' individual effects combined) in viruses, where we discuss the need for genomic epidemiologists to actively incorporate epistasis in their work, and the implications of epistasis and viral evolvability. 
 
 Currently, I am working on developing and testing a framework for measuring evolvability in fitness landscapes, and I am excited to share more about that work as it develops!
 
