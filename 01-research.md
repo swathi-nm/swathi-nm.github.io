@@ -20,10 +20,11 @@ At present, I focus on how mechanisms shaping the genotype-phenotype map of a gi
 
 <img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="40%" align="left"/>
 
-Part of the work in offering clarity to a field of study such as evolvability involves synthesising and understanding what has already been done in the field thus far. I conducted a [systematic review](https://doi.org/10.1093/ve/veaf091) of epistasis (where the combined phenotypic effect of mutations deviates from the constituent mutations' individual effects combined) in viruses, where we discuss the need for genomic epidemiologists to actively incorporate epistasis in their work, and the implications of epistasis and viral evolvability. 
+Part of the work in offering clarity to a field of study such as evolvability involves synthesising and understanding what has already been done in the field thus far. Work that I have done in this area includes:
+- [A systematic review of epistasis in viruses, including the implications of epistasis and viral evolvability](https://doi.org/10.1093/ve/veaf091)
+- [A framework for deconstructing the study of fitness seascapes, including evolvability of mutational steps](https://doi.org/10.64898/2026.02.04.703871)
 
-Currently, I am working on developing and testing a framework for measuring evolvability in fitness landscapes, and I am excited to share more about that work as it develops!
-
+This is still ongoing work as part of my dissertation. Look out for more updates on this in the future!
 
 ## **Proteostasis as a mechanism of evolvability in microbes**
 
@@ -39,4 +40,7 @@ This is currently ongoing work as part of my dissertation. Look out for more upd
 
 <img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="40%" align="left"/>
 
-While not strictly part of the "evolvability" umbrella of my research interests, I am also generally interested in understanding and predicting the epidemiological, ecological, and/or evolutionary dynamics of infectious diseases. In my undergraduate studies, I used mathematical modelling to [study](https://www.siam.org/media/j0iffxqy/s151755rr.pdf) how asymptomatic, infectious hosts that recovered without developing symptoms could shape the evolutionary dynamics of a pathogen. I was also involved in a [study](https://arxiv.org/pdf/2409.09096), where we have proposed new metrics to quantify the impact of social disparities on the epidemiology of disease outbreaks. 
+While not strictly part of the "evolvability" umbrella of my research interests, I am also generally interested in understanding and predicting the epidemiological, ecological, and/or evolutionary dynamics of infectious diseases. Work that I have done in this area includes:
+- [Mathematical modelling to study how asymptomatic, infectious hosts with direct recovery could shape the evolutionary dynamics of a pathogen](https://www.siam.org/media/j0iffxqy/s151755rr.pdf)
+- [Using causal inference to quantify the impact of social disparities on the epidemiology of disease outbreaks](https://arxiv.org/pdf/2409.09096)
+
