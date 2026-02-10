@@ -10,9 +10,9 @@ permalink: publications
 
 
 ### Pre-prints
-1. **Manivannan SN**, Ogbunugafor CB. [Deconstructing empirical fitness seascapes across scales of granularity](https://doi.org/10.64898/2026.02.04.703871) 
-2. Surasinghe S\*, **Manivannan SN**\*, Crawford L, Ogbunugafor CB. [Classification and regression trees clarify the role of epistasis and environment in genotype–phenotype maps](https://doi.org/10.32942/X2N643) 
-3. Surasinghe S, **Manivannan SN**, Scarpino SV, Crawford L, Ogbunugafor CB. [Structural causal influence (SCI) captures the forces of social inequality in models of disease dynamics.](https://arxiv.org/pdf/2409.09096)
+1. **Manivannan SN**, Ogbunugafor CB. [Deconstructing empirical fitness seascapes across scales of granularity](https://doi.org/10.64898/2026.02.04.703871). (2026). 
+2. Surasinghe S\*, **Manivannan SN**\*, Crawford L, Ogbunugafor CB. [Classification and regression trees clarify the role of epistasis and environment in genotype–phenotype maps](https://doi.org/10.32942/X2N643). (2025). 
+3. Surasinghe S, **Manivannan SN**, Scarpino SV, Crawford L, Ogbunugafor CB. [Structural causal influence (SCI) captures the forces of social inequality in models of disease dynamics.](https://arxiv.org/pdf/2409.09096). (2024).
 
 
 ### Magazine articles
