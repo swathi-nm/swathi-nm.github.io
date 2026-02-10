@@ -16,6 +16,7 @@ permalink: publications
 
 
 ### Magazine articles
-1. Giovanetti-Singh G\*, Kent R\*, **Manivannan SN**\*. [Hidden Figures.](https://issuu.com/bluesci/docs/issue52_issuu_copy) _BlueSci 52_ (2021).
+1. **Manivannan SN**. The construction of a metropolis, or the cost of uprooting. The Yale Environmentalist, Spring 2023.
+2. Giovanetti-Singh G\*, Kent R\*, **Manivannan SN**\*. [Hidden Figures.](https://issuu.com/bluesci/docs/issue52_issuu_copy) _BlueSci 52_ (2021).
 
 (\* contributed equally)
