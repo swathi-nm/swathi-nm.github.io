@@ -18,7 +18,7 @@ At present, I focus on how mechanisms shaping the genotype-phenotype map of a gi
 
 ## **How mechanisms of evolvability have been studied in (microbial) systems**
 
-<img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="40%" align="left"/>
+<img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="50%" align="right"/>
 
 Part of the work in offering clarity to a field of study such as evolvability involves synthesising and understanding what has already been done in the field thus far. Work that I have done in this area includes:
 - [A systematic review of epistasis in viruses, including the implications of epistasis and viral evolvability](https://doi.org/10.1093/ve/veaf091)
@@ -28,7 +28,7 @@ This is still ongoing work as part of my dissertation. Look out for more updates
 
 ## **Proteostasis as a mechanism of evolvability in microbes**
 
-<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="40%" align="left"/>
+<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="50%" align="right"/>
 
 Proteostasis, or protein homeostasis, is a dynamic process in all living organisms that ensures that proteins are folded correctly, and that damaged proteins are degraded appropriately under various environmental conditions. Typically, a wide range of proteins - chaperones (which fold proteins), proteases (which break down damaged proteins) and protein translational machinery (involved in translating RNA into proteins) - are implicated in proteostasis.
 
@@ -38,7 +38,7 @@ This is currently ongoing work as part of my dissertation. Look out for more upd
 
 ## **E3ID (Epidemiology, ecology, and evolution of infectious diseases)**
 
-<img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="40%" align="left"/>
+<img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="50%" align="right"/>
 
 While not strictly part of the "evolvability" umbrella of my research interests, I am also generally interested in understanding and predicting the epidemiological, ecological, and/or evolutionary dynamics of infectious diseases. Work that I have done in this area includes:
 - [Mathematical modelling to study how asymptomatic, infectious hosts with direct recovery could shape the evolutionary dynamics of a pathogen](https://www.siam.org/media/j0iffxqy/s151755rr.pdf)
