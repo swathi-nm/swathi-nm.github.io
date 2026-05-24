@@ -16,6 +16,7 @@ I think of evolvability (defined by Riederer et al. (2022) as the capacity of a 
 
 At present, I focus on how mechanisms shaping the genotype-phenotype(-fitness) map of a given biological system enhance or constraint its evolvability. In other words, how do mechanisms that are involved in the flow of genetic information shape the phenotypic variation for selection to act on (which can affect a biological system's evolvability)? Below, I describe some of my past, present, and future projects:
 
+
 ## **How do mechanisms of the genotype-phenotype map contribute to evolvability?**
 
 <img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="60%" align="right"/>
@@ -25,6 +26,7 @@ Part of my work involves investigating how specific mechanisms that shape transl
 <img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="50%" align="left"/>
 
 Another mechanism in the genotype-phenotype map that I am interested in is proteostasis, or protein homeostasis, which is a dynamic process that ensures proteins are folded correctly, and that damaged proteins are degraded appropriately under various environmental conditions. In my dissertation, I am interested in understanding how the absence of certain chaperones and proteases that form the proteostatic machinery of _Escherichia coli_ shapes the evolvability of _E. coli_ in response to different selection pressures. Look out for more updates on this in the future!
+
 
 ## **Context-dependence and evolvability in fitness landscapes**
 
