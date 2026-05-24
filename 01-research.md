@@ -22,7 +22,7 @@ At present, I focus on how mechanisms shaping the genotype-phenotype(-fitness) m
 
 Part of my work involves investigating how specific mechanisms that shape translation of the genotype into the phenotype can affect the evolvability of a microbial system. I previously conducted a [systematic review](https://doi.org/10.1093/ve/veaf091) of how epistasis has been studied in virus evolution, including potential implications for understanding viral evolvability. 
 
-<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="70%" align="left"/>
+<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="60%" align="left"/>
 
 Another mechanism in the genotype-phenotype map that I am interested in is proteostasis, or protein homeostasis, which is a dynamic process that ensures proteins are folded correctly, and that damaged proteins are degraded appropriately under various environmental conditions. In my dissertation, I am interested in understanding how the absence of certain chaperones and proteases that form the proteostatic machinery of _Escherichia coli_ shapes the evolvability of _E. coli_ in response to different selection pressures. Look out for more updates on this in the future!
 
