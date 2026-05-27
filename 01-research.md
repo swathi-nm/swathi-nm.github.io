@@ -19,7 +19,7 @@ At present, I focus on how mechanisms shaping the genotype-phenotype(-fitness) m
 
 ## **How do mechanisms of the genotype-phenotype map contribute to evolvability?**
 
-<img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="60%" align="right"/>
+<img src="https://swathi-nm.github.io/epistasis_figure.jpg" width="50%" align="right"/>
 
 Part of my work involves investigating how specific mechanisms that shape translation of the genotype into the phenotype can affect the evolvability of a microbial system. I previously conducted a [systematic review](https://doi.org/10.1093/ve/veaf091) of how epistasis has been studied in virus evolution, including potential implications for understanding viral evolvability. 
 
@@ -30,14 +30,14 @@ Another mechanism in the genotype-phenotype map that I am interested in is prote
 
 ## **Context-dependence and evolvability in fitness landscapes**
 
-<img src="https://swathi-nm.github.io/seascape_framework.jpg" width="70%" align="right"/>
+<img src="https://swathi-nm.github.io/seascape_framework.jpg" width="60%" align="right"/>
 
 In addition to focusing on specific mechanisms of the genotype-phenotype map, I am also interested in the genotype-phenotype-fitness space as a whole (i.e., fitness landscapes) to both understand how environmental context shapes adaptive evolution, and in using fitness landscapes as a system to conceptualize measuring evolvability. We have proposed a [framework](https://doi.org/10.64898/2026.02.04.703871) for deconstructing various features of fitness seascapes (i.e., fitness landscapes that also integrate environmental context). Ongoing work on fitness landscapes involves identifying "evolvability-enhancing mutations" (Wagner, 2023) and their implications for adaptive evolution, as well as developing a framework for measuring evolvability in fitness landscapes. Look out for more updates on this in the future!
 
 
 ## **E3ID (Epidemiology, ecology, and evolution of infectious diseases)**
 
-<img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="70%" align="left"/>
+<img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="60%" align="left"/>
 
 While not strictly part of the "evolvability" umbrella of my research interests, I am also generally interested in understanding and predicting the epidemiological, ecological, and/or evolutionary dynamics of infectious diseases. I utilized [mathematical modelling](https://www.siam.org/media/j0iffxqy/s151755rr.pdf) to understand how asymptomatic infections with direct recovery could shape the evolutionary dynamics of a pathogen. I have also contributed to a [study](https://arxiv.org/pdf/2409.09096) utilizing causal inference to quantify the impact of social disparities on infectious disease epidemiology.
 
