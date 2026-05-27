@@ -23,7 +23,7 @@ At present, I focus on how mechanisms shaping the genotype-phenotype(-fitness) m
 
 Part of my work involves investigating how specific mechanisms that shape translation of the genotype into the phenotype can affect the evolvability of a microbial system. I previously conducted a [systematic review](https://doi.org/10.1093/ve/veaf091) of how epistasis has been studied in virus evolution, including potential implications for understanding viral evolvability. 
 
-<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="50%" align="left"/>
+<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="50%" align="right"/>
 
 Another mechanism in the genotype-phenotype map that I am interested in is proteostasis, or protein homeostasis, which is a dynamic process that ensures proteins are folded correctly, and that damaged proteins are degraded appropriately under various environmental conditions. In my dissertation, I am interested in understanding how the absence of certain chaperones and proteases that form the proteostatic machinery of _Escherichia coli_ shapes the evolvability of _E. coli_ in response to different selection pressures. Look out for more updates on this in the future!
 
@@ -37,7 +37,7 @@ In addition to focusing on specific mechanisms of the genotype-phenotype map, I 
 
 ## **E3ID (Epidemiology, ecology, and evolution of infectious diseases)**
 
-<img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="60%" align="left"/>
+<img src="https://swathi-nm.github.io/ess_asymptomaticity.jpg" width="60%" align="right"/>
 
 While not strictly part of the "evolvability" umbrella of my research interests, I am also generally interested in understanding and predicting the epidemiological, ecological, and/or evolutionary dynamics of infectious diseases. I utilized [mathematical modelling](https://www.siam.org/media/j0iffxqy/s151755rr.pdf) to understand how asymptomatic infections with direct recovery could shape the evolutionary dynamics of a pathogen. I have also contributed to a [study](https://arxiv.org/pdf/2409.09096) utilizing causal inference to quantify the impact of social disparities on infectious disease epidemiology.
 
