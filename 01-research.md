@@ -24,7 +24,6 @@ At present, I focus on how mechanisms shaping the genotype-phenotype(-fitness) m
 Part of my work involves investigating how specific mechanisms that shape translation of the genotype into the phenotype can affect the evolvability of a microbial system. I previously conducted a [systematic review](https://doi.org/10.1093/ve/veaf091) of how epistasis has been studied in virus evolution, including potential implications for understanding viral evolvability. 
 
 <img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="50%" align="right"/>
-
 Another mechanism in the genotype-phenotype map that I am interested in is proteostasis, or protein homeostasis, which is a dynamic process that ensures proteins are folded correctly, and that damaged proteins are degraded appropriately under various environmental conditions. In my dissertation, I am interested in understanding how the absence of certain chaperones and proteases that form the proteostatic machinery of _Escherichia coli_ shapes the evolvability of _E. coli_ in response to different selection pressures. Look out for more updates on this in the future!
 
 
@@ -33,7 +32,6 @@ Another mechanism in the genotype-phenotype map that I am interested in is prote
 <img src="https://swathi-nm.github.io/seascape_framework.jpg" width="60%" align="right"/>
 
 In addition to focusing on specific mechanisms of the genotype-phenotype map, I am also interested in the genotype-phenotype-fitness space as a whole (i.e., fitness landscapes) to both understand how environmental context shapes adaptive evolution, and in using fitness landscapes as a system to conceptualize measuring evolvability. We have proposed a [framework](https://doi.org/10.64898/2026.02.04.703871) for deconstructing various features of fitness seascapes (i.e., fitness landscapes that also integrate environmental context). Ongoing work on fitness landscapes involves identifying "evolvability-enhancing mutations" (Wagner, 2023) and their implications for adaptive evolution, as well as developing a framework for measuring evolvability in fitness landscapes. Look out for more updates on this in the future!
-
 
 ## **E3ID (Epidemiology, ecology, and evolution of infectious diseases)**
 
