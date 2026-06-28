@@ -4,7 +4,7 @@ title: Publications
 permalink: publications
 ---
 
-1. **Manivannan SN**, Ogbunugafor CB. [Deconstructing empirical fitness seascapes across scales of granularity.](https://doi.org/10.64898/2026.02.04.703871) _G3 (in press)_ (2026). 
+1. **Manivannan SN**, Ogbunugafor CB. [Deconstructing empirical fitness seascapes across scales of granularity.](https://doi.org/10.1093/g3journal/jkag166) _G3 Genes|Genomes|Genetics (in press)_ (2026). 
 2. Surasinghe S, **Manivannan SN**, Scarpino SV, Crawford L, Ogbunugafor CB. [Structural causal influence (SCI) captures the forces of social inequality in models of disease dynamics.](https://arxiv.org/pdf/2409.09096) _Biology Letters (in press)_ (2026).
 3. **Manivannan SN**, Ogbunugafor CB. [Maynard Smith’s analogy, realized: Common ancestry constrains evolutionary percolation through protein space.](https://doi.org/10.1073/pnas.2610113123) _PNAS,_ 123(21) e2610113123. (2026).
 4. **Manivannan SN**, Diaz Arenas C, Grubaugh ND, Ogbunugafor CB. [The importance of epistasis in the evolution of viral pathogens.](https://doi.org/10.1093/ve/veaf091) _Virus Evolution,_ veaf091. (2025).
