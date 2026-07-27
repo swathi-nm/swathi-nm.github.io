@@ -19,7 +19,7 @@ At present, I focus on how mechanisms shaping the genotype-phenotype(-fitness) m
 
 ## **How do mechanisms of the genotype-phenotype map contribute to evolvability?**
 
-<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="70%" align="right"/>
+<img src="https://swathi-nm.github.io/pqc_proteins.jpg" width="50%" align="right"/>
 
 Part of my work involves investigating how specific mechanisms that shape translation of the genotype into the phenotype can affect the evolvability of a microbial system. Examples of mechanisms in the genotype-phenotype map that I've been interested it include [epistasis (gene-gene interactions)](https://doi.org/10.1093/ve/veaf091) and proteostasis (protein homeostasis). I have been approaching this question through theoretical and experimental approaches, so look out for more updates on this in the future!
 
