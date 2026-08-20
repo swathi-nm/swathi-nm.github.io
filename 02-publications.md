@@ -5,7 +5,7 @@ permalink: publications
 ---
 
 1. **Manivannan SN**, Ogbunugafor CB. [Deconstructing empirical fitness seascapes across scales of granularity.](https://doi.org/10.1093/g3journal/jkag166) _G3_ (2026). 
-2. Surasinghe S, **Manivannan SN**, Scarpino SV, Crawford L, Ogbunugafor CB. [Structural causal influence (SCI) captures the forces of social inequality in models of disease dynamics.](https://arxiv.org/pdf/2409.09096) _Biology Letters (in press)_ (2026).
+2. Surasinghe S, **Manivannan SN**, Scarpino SV, Crawford L, Ogbunugafor CB. [Structural causal influence (SCI) captures the forces of social inequality in models of disease dynamics.]([https://arxiv.org/pdf/2409.09096](https://doi.org/10.1098/rsbl.2025.0655)) _Biology Letters,_ 22 (8): 20250655. (2026).
 3. **Manivannan SN**, Ogbunugafor CB. [Maynard Smith’s analogy, realized: Common ancestry constrains evolutionary percolation through protein space.](https://doi.org/10.1073/pnas.2610113123) _PNAS,_ 123(21) e2610113123. (2026).
 4. **Manivannan SN**, Diaz Arenas C, Grubaugh ND, Ogbunugafor CB. [The importance of epistasis in the evolution of viral pathogens.](https://doi.org/10.1093/ve/veaf091) _Virus Evolution,_ veaf091. (2025).
 5. **Manivannan SN**. (_advised by Levin, SA._). [Modelling the evolutionary dynamics of an infectious disease with an initial asymptomatic infection stage with recovery.](https://www.siam.org/media/j0iffxqy/s151755rr.pdf) _SIAM Undergraduate Research Online 16._ (2023).
